@@ -1,9 +1,9 @@
 # Git playground
 
-Playground for participants of the [CODAS HEP school 2022](https://indico.cern.ch/event/1151367/).
+> **Note**
+> The lecture slides are [available as open source](https://github.com/klieret/collaborative-programming-github/).
+
+Playground for participants of the workshop *Let's Collaborate! Software Development Using the GitHub Web Interface* at Princeton University on 28 Feb 2023.
 
 > **Warning**
 > Please only add to or modify the content in `content/`.
-
-> **Note**
-> The lecture slides are also [available as open source](https://github.com/klieret/collaborative-programming-github/).
