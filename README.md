@@ -8,3 +8,5 @@ Playground for participants of the workshop *Let's Collaborate! Software Develop
 > Please only add to or modify the content in `content/`.
 
 ![](animage.jpg)
+
+Tiger image from [wikimedia](https://en.wikipedia.org/wiki/Tiger#/media/File:Tigerwater_edit2.jpg) by Bob Jagendorf CC BY 2.0.
