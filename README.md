@@ -14,3 +14,4 @@ Thank you to all of the mentors moderating pull requests during the session:
 * [Oksana](https://github.com/oshadura)
 * [Alexander](https://github.com/alexander-held)
 * [Tim](https://github.com/tgmattso)
+
