@@ -8,3 +8,9 @@
 > Please only add to or modify the content in `content/`.
 
 Playground for participants of the 5th [CoDaS-HEP school](https://codas-hep.org/) at Princeton University on 17 Jul 2023.
+
+Thank you to all of the mentors moderating pull requests during the session:
+
+* [Oksana](https://github.com/oshadura)
+* [Alexander](https://github.com/alexander-held)
+* [Tim](https://github.com/tgmattso)
